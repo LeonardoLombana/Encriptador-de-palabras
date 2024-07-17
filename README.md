@@ -33,13 +33,13 @@ La interfaz es responsiva, adaptándose a diferentes tamaños de pantalla, inclu
 - Si el texto contiene caracteres no permitidos, se mostrará una alerta explicando el error.
 
 # Formula de encriptación usadas son:
-La letra "e" es convertida para "enter"
-La letra "i" es convertida para "imes"
-La letra "a" es convertida para "ai"
-La letra "o" es convertida para "ober"
-La letra "u" es convertida para "ufat"
+- La letra "e" es convertida para "enter"
+- La letra "i" es convertida para "imes"
+- La letra "a" es convertida para "ai"
+- La letra "o" es convertida para "ober"
+- La letra "u" es convertida para "ufat"
 
-#Requisitos:
+# Requisitos:
 - El programa solo admite letras minúsculas
 - No se admiten texto con acentos ni caracteres especiales
 - El programa permitira generar la encriptaciòn de una palabra y posteriormente devolver una palabra encriptada a la versión original.
