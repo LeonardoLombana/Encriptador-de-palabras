@@ -9,7 +9,11 @@ Herramientas utilizadas:
     
     CSS
     
-    Flex-box
+    JavaScript
+
+    Libreria Sweetalert
+
+    Libreria animate.style
     
 Hecho por:
 ###Leonardo Lombana contento
