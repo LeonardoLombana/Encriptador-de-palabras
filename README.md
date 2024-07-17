@@ -1,9 +1,9 @@
-# Encriptador-de-palabras
+# Encriptador de palabras
 Diseño de programa web para encriptar y desencriptar palabras 
 
 - Estado: Finalizado
 
-Herramientas utilizadas:
+Tecnologias utilizadas:
 
     HTML
     
@@ -15,14 +15,16 @@ Herramientas utilizadas:
 
     Libreria animate.style
 
-Descripción
-Este es un encriptador de texto simple que permite a los usuarios encriptar y desencriptar mensajes de texto. La aplicación está diseñada con HTML, CSS y JavaScript, y utiliza SweetAlert2 para mostrar alertas. La interfaz es responsiva, adaptándose a diferentes tamaños de pantalla, incluidos dispositivos móviles y tablets.
+# Descripción
+El programa permite a los usuarios encriptar y desencriptar mensajes de texto. 
+La aplicación está diseñada con HTML, CSS y JavaScript, SweetAlert2 para mostrar alertas y animate.style para animacion de logo
+La interfaz es responsiva, adaptándose a diferentes tamaños de pantalla, incluidos dispositivos móviles y tablets.
 
 Características
-Encriptar Texto: Convierte texto plano en una versión encriptada.
-Desencriptar Texto: Convierte texto encriptado de vuelta a su forma original.
-Validación de Entrada: Asegura que el texto solo contenga letras minúsculas sin acentos y sin caracteres especiales.
-Interfaz Responsiva: Diseñado para adaptarse a diferentes tamaños de pantalla.
+- Encriptar Texto: Convierte texto plano en una versión encriptada.
+- Desencriptar Texto: Convierte texto encriptado de vuelta a su forma original.
+- Validación de Entrada: Asegura que el texto solo contenga letras minúsculas sin acentos y sin caracteres especiales.
+- Interfaz Responsiva: Diseñado para adaptarse a diferentes tamaños de pantalla.
     
 Hecho por:
 
