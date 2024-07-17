@@ -40,11 +40,10 @@ La letra "o" es convertida para "ober"
 La letra "u" es convertida para "ufat"
 
 #Requisitos:
-• Debe funcionar solo con letras minúsculas
-• No deben ser utilizados letras con acentos ni caracteres especiales
-• Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original. Por ejemplo:
-"gato" => "gaitober"
-gaitober" => "gato"
+- El programa solo admite letras minúsculas
+- No se admiten texto con acentos ni caracteres especiales
+- El programa permitira generar la encriptaciòn de una palabra y posteriormente devolver una palabra encriptada a la versión original.
+- Por ejemplo: "gato" => "gaitober" gaitober" => "gato"
     
 Hecho por:
 
