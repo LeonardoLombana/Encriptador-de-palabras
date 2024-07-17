@@ -4,8 +4,11 @@ Diseño de programa web para encriptar y desencriptar palabras
 - Estado: Finalizado
 
 Herramientas utilizadas:
+
     HTML
+    
     CSS
+    
     Flex-box
     
 Hecho por:
