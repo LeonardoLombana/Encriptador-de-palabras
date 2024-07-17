@@ -16,5 +16,7 @@ Herramientas utilizadas:
     Libreria animate.style
     
 Hecho por:
-###Leonardo Lombana contento
+
+Leonardo Lombana contento
+
 Linkedin: www.linkedin.com/in/leonardo-lombana-contento
